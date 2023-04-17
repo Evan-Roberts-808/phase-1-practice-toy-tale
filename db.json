@@ -10,13 +10,13 @@
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 12
+      "likes": 241
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 7
+      "likes": 125
     },
     {
       "id": 4,
@@ -54,6 +54,5 @@
       "likes": 0,
       "id": 9
     }
-
   ]
 }
